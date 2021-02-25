@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Суть игры:
+Аналог классической игры "Виселица", но без графической реализации. Нужно просто угадать слово за
+отведённое количество попыток.
+Есть вариант самому вводить слово, но и можно и воспользоваться уже закотовленными словами
+*/
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 
@@ -112,7 +119,7 @@ namespace lab1
                 {
                     Console.WriteLine("YOU LOSE\n\n\n");
                     Console.WriteLine($"Было загадано слово {word}");
-                    Console.WriteLine($"Вы не отгадали {remain} букв.");
+                    Console.WriteLine($"Вы не отгадали {remain} букв(-ы).");
                 }
 
                 else
