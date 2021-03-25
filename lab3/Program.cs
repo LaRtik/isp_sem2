@@ -8,9 +8,9 @@ namespace lab3
         public string Surname { get; set; }
         public string Sex { get; set; }
         public int Age { get; set; }
-        public double Money { get; set; }
+        protected double Money { get; set; }
 
-        public int ID { get; set; }
+        public int ID { get; private set; }
         private static int Count;
 
         public Human() : this("Ivan", "Petrov", "Male", 18, 0) { ID = Count; Count++; }
@@ -106,7 +106,7 @@ namespace lab3
         }
     }
 
-    class SpecialtyStudents : Student
+    class SpecialtyStudents
     {
         public string Specialty { get; set; }
 
