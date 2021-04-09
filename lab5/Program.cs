@@ -227,6 +227,8 @@ namespace UniversitySystem
             st.ShowFullInfo();
             Student st2 = new Bachelor(st);
             st2.Info();
+            Master st3 = new Master(st, "Programming", Master.Degree.BussinessAdministration);
+            st3.ShowFullInfo();
         }
     }
 }
