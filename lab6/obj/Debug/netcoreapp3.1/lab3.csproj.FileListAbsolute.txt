@@ -1,0 +1,13 @@
+C:\Users\ilazu\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\ilazu\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\ilazu\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\ilazu\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Users\ilazu\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\ilazu\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\ilazu\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
